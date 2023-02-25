@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Under Water Project",
+"productVersion": "0.1",
+"dataUrl": "new file.data.unityweb",
+"wasmCodeUrl": "new file.wasm.code.unityweb",
+"wasmFrameworkUrl": "new file.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
